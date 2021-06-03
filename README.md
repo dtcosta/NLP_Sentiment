@@ -34,10 +34,16 @@ Use the [newsapi](https://newsapi.org/) to pull the latest news articles for Bit
 Use descriptive statistics to answer the following questions:
 
 > Which coin had the highest mean positive score?
->
+> 
+> Ethereum had a slightly higher mean positive score
+> 
 > Which coin had the highest negative score?
->
+> 
+> Bitcoin had the highest compound score
+> 
 > Which coin had the highest positive score?
+> 
+> Bitcoin had the highest Positive score
 
 ---
 
