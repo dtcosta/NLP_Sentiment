@@ -1,4 +1,4 @@
-Natural Language Processing 
+# Natural Language Processing 
 
 ![Stock Sentiment](Images/sentimental.jpeg)
 
