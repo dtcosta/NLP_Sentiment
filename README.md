@@ -1,5 +1,6 @@
-# Tales from the Crypto
+Natural Language Processing 
 
+![Stock Sentiment](Images/sentimental.jpeg)
 
 
 ## Background
